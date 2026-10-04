@@ -1,0 +1,6 @@
+REGEDIT4
+
+; Make Wine load the hwgl opengl32.dll shim from the game folder, for HomeworldRM.exe only.
+
+[HKEY_CURRENT_USER\Software\Wine\AppDefaults\HomeworldRM.exe\DllOverrides]
+"opengl32"="native,builtin"
