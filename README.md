@@ -76,4 +76,5 @@ All of these files are needed to build:
 
 ## License
 MIT, see `LICENSE`.
-This was built using AI.
+
+This was built with the help of AI.
